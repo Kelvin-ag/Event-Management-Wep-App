@@ -1,0 +1,78 @@
+#welcome {
+    width: 100px;
+    height: 30px;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-right: 20px;
+    color: #db4905;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
+.dashboard {
+    background-color: #faf8f8;
+    margin-bottom: 0;
+    min-height: 80vh;
+}
+.dashboard h1 {
+    color: #fa7e65;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: 500;
+    text-decoration: underline;
+}
+.nav button {
+    margin-bottom: 20px !important;
+    width: 100px;
+}
+#v-pills-account {
+    font-family: monospace;
+    font-size: 20px;
+    line-height: 50px;
+    border: 5px solid #3266f7;
+    border-top-color: #db4905;
+    border-bottom: none;
+    border-radius: 50px;
+    padding: 20px 100px;
+    margin-left: 200px;
+}
+.card {
+    width: 20%;
+    float: left;
+}
+#v-pills-manage img {
+    height: 80px;
+    width: 80px;
+}
+#adminEdit {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #83bff7;
+    border-radius: 20px;
+    padding: 10px;
+}
+#adminEdit:hover {
+    background-color: #3266f7;
+}
+#adminDel {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #f54d55;
+    border-radius: 20px;
+    padding: 10px;
+}
+#adminDel:hover {
+    background-color: #d10913;
+}
+#viewEvent {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #6afa17;
+    border-radius: 20px;
+    padding: 10px;
+}
+#viewEvent:hover {
+    background-color: #4cac15;
+}
+.reachUs {
+    margin: 20px;
+}

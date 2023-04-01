@@ -1,0 +1,71 @@
+.inside {
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+h1 {
+    color: #ff0000;
+}
+#green {
+    color: #008000;
+}
+#blue {
+    color: #0000ff;
+}
+#eventForm {
+    line-height: 2;
+    /* background-color: #c4c4c1; */
+    /* background-image: url(./images/yellowcropped.png) cover; */
+    border-radius: 10px;
+}
+.events {
+    padding: 20px;
+}
+.events input {
+    border: 1px solid #e1f1ff;
+    border-radius: 20px;
+    width: 100%;
+}
+#online {
+    width: 20px;
+}
+.events select {
+    border: 1px solid #e1f1ff;
+    border-radius: 20px;
+    width: 100%;
+}
+.events label {
+    color: #fa7e65;
+}
+#eventButton {
+    letter-spacing: 1.5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    background-color: #e1f1ff;
+    padding: 10px 30px 10px 30px;
+    margin: 20px ;
+    margin-left: 170px;
+    transition: all 0.25s;
+}
+#eventButton:hover {
+    background-color: #b4dafc;
+    color: #ffffff;
+    box-shadow: 0 0.5em 0.5em -0.4em #b9b9b7;
+    transform: translateY(-0.25em);
+    cursor: pointer;
+}
+#welcome {
+    width: 100px;
+    height: 30px;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-right: 20px;
+    color: #db4905;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}

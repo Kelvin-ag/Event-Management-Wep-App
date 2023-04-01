@@ -1,0 +1,13 @@
+.container {
+    box-sizing: border-box;
+}
+#welcome {
+    width: 100px;
+    height: 30px;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-right: 20px;
+    color: #db4905;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
